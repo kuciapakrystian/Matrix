@@ -5,6 +5,7 @@
   margin: 0;
   padding: o;
   overflow: hidden;
+  @import url(https://fonts.googleapis.com/css?family=Noto+Sans+Indic+Siyaq+Numbers:regular);
 }
 
 #canvas {
